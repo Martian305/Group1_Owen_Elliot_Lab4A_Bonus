@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The 2-bit binary magnitude comparator takes in four 1-bit binary values to represent two 2-bit binary values (A and B) and evaluates three output conditions: A>B, A=B, or A<B. 
 
 ## How to test
 
-Explain how to use your project
+Set any of the 4 binary inputs to either 1 or 0. If the output of Out0 is 1, then A>B. If the output of Out1 is 1, then A=B. If the output of Out2 is 1, then A<B. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs to display output and switches to set input values. 
